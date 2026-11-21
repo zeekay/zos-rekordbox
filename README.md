@@ -1,5 +1,7 @@
 # 🎧 Rekordbox
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/zos-rekordbox&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/zos-rekordbox&ref=main&action=edit)
+
 DJ performance and music management
 
 ## Category
